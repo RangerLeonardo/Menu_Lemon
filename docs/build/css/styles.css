@@ -29,21 +29,18 @@ h1{
 @media screen and (max-width: 1280px){
     h1{
         font-size: 4rem;
-        color: rgb(127, 4, 149);
     }
 }
 
 @media screen and (max-width: 768px){
     h1{
-        font-size: 3rem;
-        color: crimson;
+        font-size: 2.5rem;
     }
 }
 
 @media screen and (max-width: 480px){
     h1{
-        font-size: 2rem;
-        color: blue;
+        font-size: 1.5rem;
     }
     
 }
@@ -51,14 +48,12 @@ h1{
 @media screen and (max-width: 320px){
     h1{
         font-size: 1.5rem;
-        color: green;
     }   
 }
 
 @media screen and (max-width: 280px){
     h1{
         font-size: 1rem;
-        color: yellow;
     }   
     
 }
